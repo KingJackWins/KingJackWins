@@ -8,5 +8,5 @@
   <br>
   <br>
   <img src="./whale.webp" width="640" alt="A whale drawn as a white wireframe mesh gliding over rippling contour terrain, with green data panels at the edges" />
-  <br>
+</p>
 
