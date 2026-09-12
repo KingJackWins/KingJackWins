@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="./samurai.webp" width="400" alt="A samurai in Japanese woodblock-print style under a red sun, with cherry blossoms drifting past" />
+  <img src="./samurai.gif" width="400" alt="A pixel-art samurai beneath a huge red moon as cherry blossoms drift past" />
 </p>
