@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="./samurai.gif" width="400" alt="A pixel-art samurai beneath a huge red moon as cherry blossoms drift past" />
+  <img src="./aang-frieren.webp" width="480" alt="Pixel art of Aang bending fire, water, earth and air, back to back with Frieren casting a spell from her staff" />
 </p>
