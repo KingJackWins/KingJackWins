@@ -8,4 +8,7 @@
   <br>
   <br>
   <img src="./whale.webp" width="640" alt="A whale drawn as a white wireframe mesh gliding over rippling contour terrain, with green data panels at the edges" />
+  <br>
+  <br>
+  <img src="./justice.webp" width="640" alt="Lady Justice raising her sword as green light runs up the blade, her scales swaying" />
 </p>
