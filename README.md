@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="./aang.webp" width="480" alt="Aang in the Avatar State inside a spinning sphere of air, circled by a ring of fire and a blue ring of water" />
+  <img src="./whale.webp" width="640" alt="A whale drawn as a white wireframe mesh gliding over rippling contour terrain, with green data panels at the edges" />
 </p>
