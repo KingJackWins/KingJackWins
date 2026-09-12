@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Jack.<br> I'm a founder, obsessed with building solutions to better the future of humanity.<br><br> Building <a href="https://quantummemory.ai">Quantum Memory</a>, <a href="https://trysundown.com">Sundown</a> &amp; <a href="https://www.edenos.io">Eden OS</a><br><br><i>“Life rewards action, not intelligence.”</i> </samp>
+  <samp>Hello there. I'm Jack.<br> I'm a founder, obsessed with building solutions to better the future of humanity.<br><br> Building <a href="https://quantummemory.ai">Quantum Memory</a>, <a href="https://trysundown.com">Sundown</a>, <a href="https://www.edenos.io">Eden OS</a> &amp; Holistic Founder<br><br><i>“Life rewards action, not intelligence.”</i> </samp>
   <br>
   <br>
   <br>
