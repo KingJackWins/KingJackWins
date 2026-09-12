@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="./preview.gif" width="400" alt="Pixel-art Jack in a crown walking through a sunset, trailed by a glowing memory orb" />
+  <img src="./samurai.webp" width="400" alt="A samurai in Japanese woodblock-print style under a red sun, with cherry blossoms drifting past" />
 </p>
