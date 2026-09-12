@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="./aang-frieren.webp" width="480" alt="Pixel art of Aang bending fire, water, earth and air, back to back with Frieren casting a spell from her staff" />
+  <img src="./aang.webp" width="480" alt="Aang in the Avatar State inside a spinning sphere of air, circled by a ring of fire and a blue ring of water" />
 </p>
